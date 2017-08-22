@@ -1,6 +1,6 @@
 # RoboRoach
 
-Roach-Wiring.svg should provide a slightly clearer diagram about wiring Robo Roach up.
+Roach-Wiring.svg should provide a slightly clearer diagram about wiring Robo Roach up. I've used different colored wires to help make different parts of the circuit clearer -- you don't need to worry about wire colors in your circuit!
 
 ## How Robo Roach's Circuit Works
 
