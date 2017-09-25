@@ -2,6 +2,8 @@
 
 Roach-Wiring.svg should provide a slightly clearer diagram about wiring Robo Roach up. I've used different colored wires to help make different parts of the circuit clearer -- you don't need to worry about wire colors in your circuit!
 
+The steps in the book swap around the two bottom wires to the battery holder when compared with the diagram. This will just reverse the direction of the motors. It is up to you if you wish to swap them around.
+
 ## How Robo Roach's Circuit Works
 
 It might be difficult to understand how Robo Roach's circuit is allowing the robot to avoid obstacles. Essentially each of the two motors is being supplied current by one of the AA Batteries, the battery that is in use by a given motor depends on the position of the toggle switches.
